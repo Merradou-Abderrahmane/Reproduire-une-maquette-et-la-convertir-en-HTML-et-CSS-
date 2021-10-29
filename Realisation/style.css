@@ -16,25 +16,32 @@ li,a {
     text-decoration: none;
     font-family: 'Trebuchet MS';
     margin: 5px 15px ;
+  
 
 }
 .logo {
     margin-left: 10px;
     margin-top: -20px;
 
+
 }
 
 .nav_links li {
    display: inline-block;
    margin: 0px 2px;
-
+   color: white;
 }
 #nav { 
-    margin-left: 150px;
-    margin-top: -39px;
+    margin-left: 230px;
+    margin-top: -25px;
+   color: white;  
 }
 .nav_links li a:hover {
     color:#fc202b
+
+}
+.nav_links li a {
+    color: white;
 }
 .fas , fa-home {
     font-size: 50px;
@@ -42,11 +49,11 @@ li,a {
     margin:  0px 20px;
 }
 .btns { 
-    margin-left: 800px ;
+    margin-left: 880px ;
     margin-top: -39px;
 }
 #btn2 {
-    background-color: #000000; /* Green */
+    background-color: #000000; /* black */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -58,7 +65,7 @@ li,a {
   }
 
   #btn1 {
-    background-color: #000000; /* Green */
+    background-color: #000000; /* black */
     border: none;
     color: white;
     padding: 15px 32px;
