@@ -41,6 +41,8 @@ li,a {
     margin-top: -25px;
     color: white;  
 }
+
+
 .nav_links li a:hover {
 
     background-color: white;
@@ -55,21 +57,6 @@ li,a {
     margin-left: 880px ;
     margin-top: -39px;
 }
-#btn2 :hover {
-    background-color: blue;
-}
-#btn2 {
-    border-radius: 7px;
-    background-color: #000000; /* black */
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    margin: 2px 2px;
-    cursor: pointer
-  }
 
   #btn1 {
     border-radius: 7px;
@@ -232,7 +219,8 @@ footer ul {
 }
 
 footer i {
-    color: #43b0f1;
+    color: yellow;
+    font-size: 19px;
 }
 
 .footer-btn {
