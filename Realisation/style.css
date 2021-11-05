@@ -104,7 +104,7 @@ n
     font-size: 28px;
 }
 
-}
+
 .form p, .social-media p {
     font-weight: lighter;
     margin: 16px;
@@ -197,7 +197,6 @@ footer h3 {
 .clear-float {
     clear: both;
 }
-
 
 .footer-about, .footer-help, .footer-resoures, .footer-landing, .footer-commercial {
     padding: 22px;
